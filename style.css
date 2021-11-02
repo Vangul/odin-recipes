@@ -8,3 +8,11 @@
 .body{
     font-size: 30px;
 }
+.h1  {
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
