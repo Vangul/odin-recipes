@@ -1,4 +1,4 @@
-.return-button{
+.body, .return-button {
     background-color:black;
     color: red;
     font-size: 20px;
@@ -6,8 +6,5 @@
     text-align: center;
 }
 .body{
-    background-color:black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: red;
-    font-size: 25px;
+    font-size: 30px;
 }
