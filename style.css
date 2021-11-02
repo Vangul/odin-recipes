@@ -12,7 +12,15 @@
     font-size: 70px;
     font-family: 'Courier New', Courier, monospace;
 }
-.h2{
+.h2  {
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.li  {
+    background-color: rgb(122, 115, 115);
+    color:white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
 }
