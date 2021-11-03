@@ -31,8 +31,8 @@
 
 .return-button{
     background-image:url("../odin-recipes/images/fire.gif");
-    background-size: 100%;
-    border-radius: 45%;
-    margin: 4%;
-    padding: 3%;
+    background-size: 150%;
+    border-radius: 50%;
+    margin: 3%;
+    padding: 2%;
 }
