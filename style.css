@@ -32,7 +32,7 @@
 .return-button{
     background-image:url("../odin-recipes/images/fire.gif");
     background-size: 130%;
-    background-position: left;
+    background-position: center left;
     border-radius: 50%;
     border-color: red;
     margin: 3%;
