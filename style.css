@@ -1,4 +1,4 @@
-.body, .return-button {
+.body {
     background-color:black;
     color: red;
     font-size: 20px;
@@ -27,5 +27,12 @@
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    
+}
+
+.return-button{
+    background-image:url("../odin-recipes/images/fire.gif");
+    background-size: 100%;
+    border-radius: 45%;
+    margin: 4%;
+    padding: 3%;
 }
